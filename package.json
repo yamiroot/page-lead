@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/yamiroot/page-lead/issues"
   },
-  "homepage": "https://github.com/yamiroot/page-lead/src/index.html",
+  "homepage": "https://yamiroot.github.io/page-lead/src/index.html",
   "dependencies": {
     "sass": "^1.26.9"
   }
