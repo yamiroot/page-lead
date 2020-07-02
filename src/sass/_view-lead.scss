@@ -1,5 +1,10 @@
 @import '_measures';
 
+@mixin styleFlex($border, $borderRadius) {
+    border: $border;
+    border-radius: $borderRadius;
+}
+
 main {
     section {
         width: 70%;
